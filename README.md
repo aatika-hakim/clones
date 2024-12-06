@@ -2,12 +2,9 @@
 
 This is a basic project to replicate the core functionality of LinkedIn, like posting updates and managing user profiles. The project is currently in its initial stages.
 
----
 
-## **Current Status**
-
-- Initial setup completed.
-- Basic frontend or backend structure added.
+This section clearly explains that **v0 by vercel** can clone any website by just providing its URL in prompt and command it to clone the website.
+It will clone the full website's frontend in just seconds.
 
 ---
 
@@ -22,9 +19,7 @@ This is a basic project to replicate the core functionality of LinkedIn, like po
 
 ## **Technologies Used**
 
-- **Frontend**: [React, HTML, CSS]
-- **Backend**: [Node.js, Express]
-- **Database**: [Firebase]
+- **Frontend**: [Next.js]
 
 ---
 
